@@ -18,8 +18,5 @@
   },
   "dependencies": {
     "lodash": "^4.17.11"
-  },
-  "devDependencies": {
-    "ajv": "^6.10.0"
   }
 }

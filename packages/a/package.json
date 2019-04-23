@@ -17,10 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "b": "^0.0.0",
+    "b": "file:../b",
     "lodash": "^4.17.11"
-  },
-  "devDependencies": {
-    "ajv": "^6.10.0"
   }
 }
